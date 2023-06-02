@@ -1,0 +1,24 @@
+var age;
+age = 28;
+console.log(age);
+var fullname;
+fullname = 'Erős István';
+console.log(fullname);
+var joido;
+joido = true;
+console.log(joido);
+// age = 'aaa';
+// console.log(age)
+var a;
+a = 35;
+a = 'asd';
+a = false;
+//JavaScript var nums = [];
+var nums = [];
+nums.push(35);
+nums.push(45);
+nums.push(55);
+console.log(nums[0]);
+var names = [];
+names.push('József');
+var numTuple = [34, 55, 'aa'];
